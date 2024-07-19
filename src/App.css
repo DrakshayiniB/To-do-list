@@ -1,0 +1,36 @@
+.row>div{
+  margin-top: 20px;
+ text-align: center;
+
+}
+
+input{
+ width: 100%;
+ margin-left: 250px;
+
+}
+
+.deeksha-btn{
+  width: 70px;
+}
+
+.todo-container{
+  height: 110vh;
+  width: 100%;
+ padding:  230px 250px 150px;
+  /* margin-left: 150px; */
+  
+color: white;
+  border: 2px solid black;
+  object-fit: cover;
+   z-index: -1;
+   position: absolute;
+  background-image: url(https://th.bing.com/th/id/R.32d8978bb7537205c440946847be4fd0?rik=T686TigURKGO9Q&riu=http%3a%2f%2fimg1.wsimg.com%2fisteam%2fstock%2f675050de7ab0c3a0323e01ffea64bde57bfb2b68c0fbd13e71c9f102b8ff4ac5&ehk=5uVdK0bLzrqV7y5UBzjuLyG%2fJWPPF4cxCqu8mFaslMQ%3d&risl=&pid=ImgRaw&r=0);
+  background-repeat: no-repeat; 
+   background-size:cover;
+}
+.description{
+  width: 250px;
+margin-left: 240px;
+
+}
